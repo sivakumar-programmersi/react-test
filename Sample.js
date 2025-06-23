@@ -2,6 +2,6 @@
 let a = 5;
 let b = 7;
 
-let sum = a + b;
+let sum = a + 
 
 console.log("The sum is:", sum);
